@@ -1,6 +1,6 @@
 # chukyso
 
-E-commerce App about digital signatue products
+E-commerce App about digital signature products
 
 ## Getting Started
 
