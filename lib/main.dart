@@ -1,5 +1,5 @@
+import 'package:chukyso/src/screens/login.dart';
 import 'package:flutter/material.dart';
-import 'package:chukyso/src/screens/home.dart';
 
 void main() {
   runApp(MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: Home(),
+      home: LoginScreen(),
     );
   }
 }
