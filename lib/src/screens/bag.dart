@@ -132,6 +132,9 @@ class _ShoppingBagState extends State<ShoppingBag> {
                       SizedBox(
                         width: 40.0,
                       ),
+                      SizedBox(
+                        width: 40.0,
+                      ),
                       IconButton(icon: Icon(Icons.delete), onPressed: null),
                     ],
                   ),
